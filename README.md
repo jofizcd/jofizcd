@@ -35,7 +35,6 @@ Stars too have a beginning, but are by their own power destroyed. — Finite."_
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jofizcd&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jofizcd&layout=compact&theme=tokyonight" alt="jofizcd"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jofizcd&layout=compact&theme=tokyonight" alt="Top langs"/>
 </div>
 
 <div align="right">
