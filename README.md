@@ -30,7 +30,12 @@
 </p>
 <br>
 
-Have you always wanted to bring your characters to life and talk to them without too much trouble? Then this app is what you need! Soul of Waifu was previously a console application, but now it has a beautiful, user-friendly and aesthetic interface. Artificial Intelligence has never been easier to use.
+<p align="center">
+  Have you always wanted to bring your characters to life and talk to them without too much trouble? Then this app is what you need! 
+  
+  <br>
+  Soul of Waifu was previously a console application, but now it has a beautiful, user-friendly and aesthetic interface. Artificial Intelligence has never been easier to use.
+</p>
 
 _Advantages_:  
 - A convenient GUI instead of a console.
