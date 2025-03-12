@@ -11,8 +11,11 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jofizcd&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jofizcd&layout=compact&theme=tokyonight" alt="jofizcd"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jofizcd&show_icons=true&theme=radical" alt="GitHub stats"/>
+ 
+  <p>
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=jofizcd&theme=radical)
 </div>
 
 <br>
