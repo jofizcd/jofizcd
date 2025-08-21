@@ -29,7 +29,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=F74524&width=435&lines=About+my+projects)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://github.com/jofizcd/jofizcd/blob/main/logotitle.png" alt="Soul of Waifu" style="width: 30%; height: 30%;"/>
+  <img src="https://files.catbox.moe/gwsw5l.png" alt="Soul of Waifu" style="width: 50%"/>
 </p>
 <br>
 
@@ -43,13 +43,15 @@
 _Advantages_:  
 - A convenient GUI instead of a console.
 - Choose your favorite voice and appearance for your character. You are not limited in your choice.  
-- Three options for communicating with your character: Character AI, Mistral AI and Local LLM.
+- There are many options for communicating with your character: Character AI, Mistral AI, Open AI and proxies, OpenRouter and Local LLM.
 - The ability to download characters directly in the app without having to exit it.
+- Integration with Hugging Face website.
+- Lorebooks, custom system prompts, personas, smart memory module and Speech-to-Speech without interface.
 - A lot of settings for the program without unnecessary information that is difficult to understand.
 - Download any local large language models in the *gguf* format.
 - If you want, you can switch to a completely local way of using the program so that all the information stays with you.
 
-<h3 align="center">✨ Don't miss the opportunity to make your dream come true with Soul of Waifu! ✨</h3>
+<h3 align="center">✨ Don't miss the opportunity to breathe the soul into your characters along with Soul of Waifu! ✨</h3>
 
 <br>
 <div align="center">
