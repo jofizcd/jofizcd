@@ -29,7 +29,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=F74524&width=435&lines=About+my+projects)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://files.catbox.moe/gwsw5l.png" alt="Soul of Waifu" style="width: 50%"/>
+  <img src="logotitle.png" alt="Soul of Waifu" style="width: 50%"/>
 </p>
 <br>
 
